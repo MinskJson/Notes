@@ -4,6 +4,7 @@
 
 Log докладов:
 - 11.08.2018 [Работа с SVG.](./svg.md) [Запись доклада](https://www.youtube.com/watch?v=PRSs3776nfY&feature=youtu.be)
+- 07.08.2018 [Unit тестирование](https://arthurchumak.github.io/slides/tdd/) + [Тестирование Api](https://arthurchumak.github.io/slides/js-api-tests)
 - 23.07.2018 [О крипте или как сделать на JS криптокошелечек своими руками](https://www.youtube.com/watch?v=b-ZaBv-fJUU)
 - 14.07.2018 [Web Workers, О React.js +- сравниваем со Vue.js](https://www.youtube.com/watch?v=T5Gur_hcDto)
 - 07.07.2018 [Архитектура Frontend приложений, Асинхронщина в JS под капотом, Как работают анимации, О работе зарубежом +-](https://www.youtube.com/watch?v=wyPbB95iVwI)
